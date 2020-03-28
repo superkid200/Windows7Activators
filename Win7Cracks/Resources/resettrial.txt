@@ -1,0 +1,30 @@
+@echo off
+echo You are starting up in Setup mode. We're proccessing to reset trial period increase count...
+echo:
+echo Tweaking the registry...
+reg delete HKEY_LOCAL_MACHINE\WPA /f 2 >nul 2>&1
+echo Done!
+echo:
+echo Disabling Setup mode...
+reg add HKLM\System\Setup /v SystemSetupInProgress /f /t REG_DWORD /d 0
+reg add HKLM\System\Setup /v SetupType /f /t REG_DWORD /d 0
+reg add HKLM\System\Setup /v CmdLine /f /t REG_SZ /d ""
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /f /t REG_DWORD /v EnableLUA /d 1
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /f /t REG_DWORD /v EnableCursorSuppression /d 1
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /f /t REG_DWORD /v VerboseStatus /d 0
+echo Done!
+echo.
+echo Self destructing...
+DEL "%~f0"
+echo.
+echo Restarting your PC (3 attempts)...
+echo Attempt 1...
+goto restart
+echo Attempt 2...
+goto restart
+echo Attempt 3...
+goto restart
+echo We can't restart automatically, but recovery mode is disabled so you just need to restart manually
+:restart
+shutdown -r -t 0
+ping -n 3 localhost > nul

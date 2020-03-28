@@ -1,0 +1,24 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}{\f1\fnil\fcharset0 Calibri;}{\f2\fnil\fcharset2 Symbol;}}
+{\*\generator Riched20 10.0.18362}\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\ul\b\f0\fs28\lang9 Windows 7 Activators collection\fs22\par
+\ulnone\b0 This is a small program that you can use to activate your Windows 7. This program includes programs that can help activating Windows 7. In this tool you can:\par
+1) Activate using Windows 7 Loader\par
+2) Activate using KMSPico\par
+3) Activate using KMS (Pro/Enterprise only!)\par
+4) Increase trial period (grace period) by 1 month (limited).\par
+5) Reset trial period increases limit\b *\b0\par
+6) Download RemoveWAT (not implemented yet)\b *\b0\par
+7) Disable Automatic Activation\b *\b0\par
+8) Disable WAT\b *\b0\par
+\ul\b Glossary:\ulnone\par
+
+\pard{\pntext\f2\'B7\tab}{\*\pn\pnlvlblt\pnf2\pnindent0{\pntxtb\'B7}}\fi-360\li720\sa200\sl276\slmult1\b0 KMS: Key Management Service (a way for volume licensing customers to activate Microsoft software)\f1\par
+{\pntext\f2\'B7\tab}\f0 WAT: Windows Activation Technologies (a technology that Microsoft use to stop piracy). It was named Windows Genuine Advantage (WGA) before Windows 7\f1\par
+
+\pard\sa200\sl276\slmult1\ul\b\f0 Internet connection requirements:\ulnone\b0\par
+Most of these options require an Internet connection. We recommend you to connect to the Internet first.\par
+
+\pard\sa200\sl276\slmult1\ul\b\f0 Notice:\ulnone\b0\par
+Some functionalities requires modifying system files or registry keys (marked by an asterisk \b *\b0 ). These functionalities are used at your own risk. We aren't responsible for any damages done to your computer. Don't use these if you don't know what you're doing or you're not very experienced with Windows.\f1\par
+}
+ 
