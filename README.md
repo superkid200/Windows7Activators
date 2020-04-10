@@ -1,6 +1,8 @@
 # Windows 7 Activators
 A collection of Windows 7 Activators
 
+![version](https://img.shields.io/static/v1?label=version&message=0.1-beta&color=red)
+
 ## What are the options in this version?
 As of the 0.1-beta version, these features are included:
 1) Windows Loader - not yet implemented
