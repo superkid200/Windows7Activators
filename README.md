@@ -2,6 +2,7 @@
 A collection of Windows 7 Activators
 
 ![version](https://img.shields.io/static/v1?label=version&message=0.1-beta&color=red)
+![development stage](https://img.shields.io/static/v1?label=development%20stage&message=beta&color=red)
 
 ## What are the options in this version?
 As of the 0.1-beta version, these features are included:
