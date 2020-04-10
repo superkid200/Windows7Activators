@@ -1,7 +1,7 @@
 # Windows 7 Activators
 A collection of Windows 7 Activators
 
-![version](https://img.shields.io/static/v1?label=version&message=0.1-beta&color=red)
+[![version](https://img.shields.io/static/v1?label=version&message=0.1-beta&color=red)](https://github.com/superkid200/Windows7Activators/releases)
 ![development stage](https://img.shields.io/static/v1?label=development%20stage&message=beta&color=red)
 
 ## What are the options in this version?
